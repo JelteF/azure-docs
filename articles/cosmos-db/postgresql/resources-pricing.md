@@ -15,7 +15,7 @@ ms.date: 09/26/2022
 [!INCLUDE [PostgreSQL](../includes/appliesto-postgresql.md)]
 
 For the most up-to-date general pricing information, see the service
-[pricing page](https://azure.microsoft.com/pricing/details/cosmos-db/).
+[pricing page](https://azure.microsoft.com/pricing/details/cosmos-db/postgresql/).
 To see the cost for the configuration you want, the
 [Azure portal](https://portal.azure.com/#create/Microsoft.PostgreSQLServer)
 shows the monthly cost on the **Configure** tab based on the options you
